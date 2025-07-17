@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Efraa\\Desktop\\ProgramacionWebII\\mvcProyectoWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB188D0-1B22-45D0-A135-03085BB42714}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\efraa\\desktop\\programacionwebii\\mvcproyectoweb\\mvcproyectoweb\\areas\\admin\\controllers\\almacenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB188D0-1B22-45D0-A135-03085BB42714}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\controllers\\almacenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB188D0-1B22-45D0-A135-03085BB42714}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\efraa\\desktop\\programacionwebii\\mvcproyectoweb\\mvcproyectoweb\\wwwroot\\js\\almacen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{CFB188D0-1B22-45D0-A135-03085BB42714}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\wwwroot\\js\\almacen.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB188D0-1B22-45D0-A135-03085BB42714}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\efraa\\desktop\\programacionwebii\\mvcproyectoweb\\mvcproyectoweb\\areas\\admin\\views\\almacenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFB188D0-1B22-45D0-A135-03085BB42714}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\views\\almacenes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFB188D0-1B22-45D0-A135-03085BB42714}|mvcProyectoWeb\\mvcProyectoWeb.csproj|c:\\users\\efraa\\desktop\\programacionwebii\\mvcproyectoweb\\mvcproyectoweb\\areas\\admin\\views\\almacenes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CFB188D0-1B22-45D0-A135-03085BB42714}|mvcProyectoWeb\\mvcProyectoWeb.csproj|solutionrelative:mvcproyectoweb\\areas\\admin\\views\\almacenes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Efraa\\Desktop\\ProgramacionWebII\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Efraa\\Desktop\\ProgramacionWebII\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T00:37:18.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "almacen.js",
+              "DocumentMoniker": "C:\\Users\\Efraa\\Desktop\\ProgramacionWebII\\mvcProyectoWeb\\mvcProyectoWeb\\wwwroot\\js\\almacen.js",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\wwwroot\\js\\almacen.js",
+              "ToolTip": "C:\\Users\\Efraa\\Desktop\\ProgramacionWebII\\mvcProyectoWeb\\mvcProyectoWeb\\wwwroot\\js\\almacen.js",
+              "RelativeToolTip": "mvcProyectoWeb\\wwwroot\\js\\almacen.js",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-17T00:37:09.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlmacenesController.cs",
+              "DocumentMoniker": "C:\\Users\\Efraa\\Desktop\\ProgramacionWebII\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "ToolTip": "C:\\Users\\Efraa\\Desktop\\ProgramacionWebII\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\Controllers\\AlmacenesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T18:49:29.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Efraa\\Desktop\\ProgramacionWebII\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Create.cshtml",
+              "RelativeDocumentMoniker": "mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Efraa\\Desktop\\ProgramacionWebII\\mvcProyectoWeb\\mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Create.cshtml",
+              "RelativeToolTip": "mvcProyectoWeb\\Areas\\Admin\\Views\\Almacenes\\Create.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-15T18:35:35.667Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
